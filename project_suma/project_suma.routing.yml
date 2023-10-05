@@ -1,0 +1,7 @@
+project_suma:
+  path: '/project/suma'
+  defaults:
+    _controller: '\Drupal\project_suma\Controller\SumaController::suma'
+    _title: 'Pagina de suma'
+  requirements:
+    _permission: 'access content'

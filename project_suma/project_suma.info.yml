@@ -1,0 +1,5 @@
+name: 'Project Suma'
+type: module
+description: 'Sumar Dos Números para eventualmente testearlos'
+package: 'Project'
+core_version_requirement: ^8 || ^9
